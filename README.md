@@ -1,5 +1,3 @@
-# sql-challenge
-
 # Notes
 1. Please find the input files in data folder.
 2. Please find the postgres queries in queries.sql file within EmployeeSQL folder. 
@@ -14,5 +12,5 @@
 4. Numpy & Scipy
 5. Jupyter Notebook
 6. APIs
-7. SQL & Postgres
+7. PostgreSQL
 8. SQL Alchemy
